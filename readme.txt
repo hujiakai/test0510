@@ -1,2 +1,2 @@
-git is version a control system.
-git is a free sofgware.s
+git is distributed version a control system.
+git is a free sofgware.
